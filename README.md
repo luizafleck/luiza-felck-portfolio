@@ -1,1 +1,3 @@
-# luiza-felck-portfolio
+# Учебный проект 1: Прогнозирование ожидаемой продолжительности жизни - life-expectancy-prediction
+# Учебный проект 2: Автоматизация контроля качества продукции (ELMA365) - elma365-quality-control
+# 
