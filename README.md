@@ -55,8 +55,6 @@
 
 ## Проекты в 1С:ERP 2
 
-**Папка:** [`1C/`](1C/).
-
 ### 1. Простая оптовая продажа
 
 **Файл:** [`1C/1C_ERP_Simple_Sale_Process.pdf`](1C/1C_ERP_Simple_Sale_Process.pdf)
